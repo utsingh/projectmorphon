@@ -22,3 +22,5 @@ To create the interface for a new device, just think of it’s place within the 
 We assume protobuf to be the universally changeable data format which is why we let people pick their favorite language to make their IoT device, then communicate using JSON/protobuf with our framework.
 
 Home automation is one of the biggest problems this framework addresses but there can be endless more applications, like maybe a vehicle, or any other device with a bunch of sensors in it that generate data and there is a need to organize that data in a human consumable manner.
+
+This project is tested with BrowserStack
